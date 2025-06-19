@@ -3,6 +3,7 @@
 GitHub Education Global Campus
 ---
 
+![GitHub Education Banner](https://github.com/Ishansourav/Sourav-GitHubCampusExperience/blob/main/github.png)
 
 Welcome to my **GitHub Education Global Campus repository**! 🎉 This repository showcases my journey as a member of the **GitHub Education Global Campus** and the valuable opportunities it provides to students for skill enhancement, collaboration, and innovation in software development.
 
